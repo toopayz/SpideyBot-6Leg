@@ -1,4 +1,5 @@
 # SpideyBot-6Leg
+## DISCONTINUED Repository
 
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم... 
   
